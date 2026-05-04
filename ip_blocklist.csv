@@ -1,0 +1,18 @@
+src_ip,threat_level,notes
+112.95.230.3,HIGH,Rapid brute-force root account
+5.188.10.180,HIGH,Systematic credential stuffing
+123.235.32.19,MEDIUM,Multiple root login attempts
+173.234.31.186,MEDIUM,Reverse DNS mismatch BREAK-IN ATTEMPT
+191.210.223.172,LOW,Single failed root attempt
+195.154.37.122,MEDIUM,Multi-account scanning
+52.80.34.196,MEDIUM,AWS China region repeated attempts
+106.5.5.195,HIGH,Too many auth failures disconnected
+59.63.188.30,CN,HIGH,Highest volume attacker
+183.63.110.206,CN,HIGH,High volume brute force
+183.238.178.195,CN,HIGH,High volume brute force
+58.242.83.25,CN,HIGH,High volume brute force
+139.219.191.138,CN,HIGH,High volume brute force
+183.192.189.131,CN,HIGH,High volume brute force
+183.129.154.138,CN,HIGH,High volume brute force
+218.65.30.30,US,HIGH,High volume brute force
+183.63.172.52,CN,HIGH,High volume brute force
